@@ -7,3 +7,7 @@
 ### Нияз Гимадиев
 
 1) [Telegram](https://t.me/niyazgim).
+
+## Дополнительные материалы
+
+1) [Как выложить сайт на GitHub Pages](https://docs.google.com/document/d/1Tdy5jaf3WOoGz-lSWi2btfkV8goJ7SDtlwsG9Nmzzio/edit?usp=sharing)
